@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Tourism Travel</string>
+
+    <string name="tourism_name">Nama Tempat</string>
+    <string name="overview">Gambaran Umum</string>
+    <string name="menu_about">About</string>
+    <string name="title">Nama Kota</string>
+    <string name="country">Nama Negara</string>
+    <string name="content">Overview</string>
+    <string name="content2">Content</string>
+
+    <string-array name="data_name">
+        <item>Paris</item>
+        <item>Roma</item>
+        <item>Santorini</item>
+        <item>Barcelona</item>
+        <item>Venice</item>
+        <item>Amsterdam</item>
+        <item>Florence</item>
+        <item>Praha</item>
+        <item>London</item>
+        <item>Swiss Alps</item>
+    </string-array>
+
+    <string-array name="data_overview">
+        <item>Paris adalah ibu kota Prancis dan dianggap sebagai salah satu kota paling romantis di dunia, terkenal dengan bangunan ikoniknya, seni, mode, dan makanan yang lezat.</item>
+        <item>Roma adalah kota bersejarah yang kaya akan seni, arsitektur, dan sejarah Romawi Kuno. Kota ini juga merupakan pusat agama Katolik Roma.</item>
+        <item>Santorini adalah salah satu dari Kepulauan Cyclades Yunani, terkenal dengan pemandangan matahari terbenam yang indah, arsitektur kubah biru dan putihnya, serta pantai berpasir hitam.</item>
+        <item>Barcelona adalah kota yang hidup dengan arsitektur unik karya Antoni Gaudí, kehidupan malam yang ramai, dan pantai yang indah.</item>
+        <item>Venice adalah kota yang dibangun di atas pulau-pulau kecil dengan jaringan kanal yang ikonik dan arsitektur klasik.</item>
+        <item>Amsterdam adalah ibu kota Belanda yang terkenal dengan sistem kanalnya yang indah, museum-museum seni, arsitektur unik, serta suasana liberal dan kosmopolitan.</item>
+        <item>Florence adalah kota seni dan budaya di Tuscany, Italia, dengan sejarah Renaissance yang kaya dan arsitektur yang menakjubkan.</item>
+        <item>Praha adalah ibu kota Republik Ceko, dikenal dengan kastil abad pertengahannya yang megah, arsitektur Baroque dan Gothic, serta keramahan penduduknya.</item>
+        <item>London adalah ibu kota Inggris yang berpengaruh di bidang budaya, politik, dan sejarah, dengan berbagai landmark ikonik dan kehidupan kota yang sibuk.</item>
+        <item>Swiss Alps adalah rangkaian pegunungan yang menakjubkan di Swiss, terkenal dengan pemandangan alamnya yang spektakuler, dan merupakan tujuan populer untuk olahraga musim dingin dan kegiatan outdoor.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/paris</item>
+        <item>@drawable/rome</item>
+        <item>@drawable/santorini</item>
+        <item>@drawable/barcelona</item>
+        <item>@drawable/venice</item>
+        <item>@drawable/amsterdam</item>
+        <item>@drawable/florence</item>
+        <item>@drawable/praha</item>
+        <item>@drawable/london</item>
+        <item>@drawable/swiss</item>
+    </string-array>
+
+    <string-array name="data_country">
+        <item>Prancis</item>
+        <item>Italia</item>
+        <item>Yunani</item>
+        <item>Spanyol</item>
+        <item>Italia</item>
+        <item>Belanda</item>
+        <item>Italia</item>
+        <item>Republik Ceko</item>
+        <item>Inggris</item>
+        <item>Swiss</item>
+    </string-array>
+
+    <string-array name="data_content">
+        <item>Menara Eiffel, Louvre (rumah bagi Mona Lisa), Katedral Notre-Dame, Champs-Élysées, Montmartre (dengan Basilique du Sacré-Cœur), dan Seine River Cruise adalah beberapa atraksi utama di kota ini.</item>
+        <item>Colosseum, Kuil Pantheon, Basilika Santo Petrus di Kota Vatikan, Forum Romawi, Trevi Fountain, dan Spanyol Square adalah beberapa tempat terkenal yang harus dikunjungi di Roma.</item>
+        <item>Oia, Fira, Red Beach, Perissa Beach, dan Kastil Akrotiri adalah beberapa tempat terbaik untuk dikunjungi di Santorini.</item>
+        <item>Basilika Sagrada Familia, Park Güell, Casa Batlló, La Rambla, Gothic Quarter, dan Camp Nou (stadion FC Barcelona) adalah tempat wisata utama di Barcelona.</item>
+        <item>San Marco Square, Basilika San Marco, Palazzo Ducale (Istana Doge), Jembatan Rialto, dan Pulau Murano (terkenal dengan kerajinan kaca) adalah tempat-tempat wisata utama di Venice.</item>
+        <item>Museum Van Gogh, Rijksmuseum, Anne Frank House, Red Light District, Vondelpark, dan Jordaan adalah beberapa tempat terkenal di Amsterdam.</item>
+        <item>Galeri Uffizi (dengan karya-karya seni klasik terkenal), Katedral Santa Maria del Fiore (dengan Kuburan Michelangelo), Ponte Vecchio, Piazza della Signoria, dan Gereja Santa Croce adalah beberapa tempat wisata utama di Florence.</item>
+        <item>Kastil Praha (Pražský hrad), Jembatan Charles (Karlův most), Old Town Square (Staroměstské náměstí), Astronomical Clock (Orloj), dan Vyšehrad adalah beberapa tempat yang wajib dikunjungi di Praha.</item>
+        <item>Big Ben dan Palace of Westminster, Tower of London, British Museum, Buckingham Palace, London Eye, dan Tate Modern adalah beberapa tempat wisata terkenal di London.</item>
+        <item>Zermatt (dengan Matterhorn), Jungfrau Region (termasuk kota-kota Interlaken dan Grindelwald), St. Moritz, Swiss National Park, dan Mont Blanc Massif (di perbatasan dengan Prancis) adalah beberapa tempat wisata alam terbaik di Swiss Alps.</item>
+    </string-array>
+</resources>
